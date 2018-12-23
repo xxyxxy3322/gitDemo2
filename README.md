@@ -1,1 +1,2 @@
 # gitDemo
+input some word
